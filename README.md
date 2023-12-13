@@ -57,5 +57,5 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 **Tech:** AWS, Python
 
-**Server:** DynamoDB, Kenesis
+**Server:** Kinesis Firehose, Lambda, DynamoDB Streams
 
